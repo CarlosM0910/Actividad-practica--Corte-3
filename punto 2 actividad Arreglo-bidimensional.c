@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define filas 3
-#define columnas 3
+#define filas 9
+#define columnas 9
 
 int main() {
     int arreglo[filas][columnas];
